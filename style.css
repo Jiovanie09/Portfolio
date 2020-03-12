@@ -1,0 +1,67 @@
+.card-one{
+    background-color: black;
+    border-radius: 4px;
+    margin-left: 2px;
+    text-align: center;
+}
+.card-two{
+    background-color: black;
+    margin-right: 2px;
+    border-radius: 4px;
+    text-align: center;
+}
+.card-three{
+    background-color: black;
+    border-radius: 4px;
+    margin-left: 2px;
+    text-align: center;
+}
+.card-four{
+    background-color: black;
+    margin-right: 2px;
+    border-radius: 4px;
+    text-align: center;
+}
+.text{
+    background-image: url(./images/background.jpg);
+    background-size: contain;
+    border-radius: 4%;
+    width: 100%;
+    color: white;
+    background-repeat: no-repeat;
+}
+#sticky-footer {
+    flex-shrink: none;
+}
+.card-title{
+    font-size: xx-large;
+    text-align: center;
+}
+.jumbotron{
+    border-bottom-style: solid;
+}
+.contacts{
+    text-align: center;
+}
+.form-group{
+    
+}
+.form{
+    border-style: outset;
+    border-color: black;
+    height: 100%;
+    width: 100%;
+}
+.email{
+    font-size: x-large;
+    border-radius: 4%;
+    border-style: groove;
+    margin-top: 4px;
+}
+
+.name{
+    font-size: x-large;
+    border-radius: 4%;
+    border-style: groove;
+    margin-top: 4px;
+}
