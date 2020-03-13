@@ -1,27 +1,17 @@
-.card-one{
+.card-img-top{
+    width: 20em;
+    margin-top: 9px;
+}
+.card-one,.card-two,.card-three,.card-four,.card-five,.card-sixth,.card-seventh{
     background-color: black;
     border-radius: 4px;
     margin-left: 2px;
     text-align: center;
+    border-radius: 50%; 
+    border-style: solid; 
+    border-color: white;
 }
-.card-two{
-    background-color: black;
-    margin-right: 2px;
-    border-radius: 4px;
-    text-align: center;
-}
-.card-three{
-    background-color: black;
-    border-radius: 4px;
-    margin-left: 2px;
-    text-align: center;
-}
-.card-four{
-    background-color: black;
-    margin-right: 2px;
-    border-radius: 4px;
-    text-align: center;
-}
+
 .text{
     background-image: url(./images/background.jpg);
     background-size: contain;
