@@ -2,7 +2,7 @@
     width: 20em;
     margin-top: 9px;
 }
-.card-one,.card-two,.card-three,.card-four,.card-five,.card-sixth,.card-seventh{
+.card-one,.card-two,.card-three,.card-four,.card-five,.card-sixth,.card-seventh, .card-eigth{
     background-color: black;
     border-radius: 4px;
     margin-left: 2px;
@@ -33,9 +33,7 @@
 .contacts{
     text-align: center;
 }
-.form-group{
-    
-}
+
 .form{
     border-style: outset;
     border-color: black;
